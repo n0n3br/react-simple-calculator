@@ -2,4 +2,4 @@
 
 React calculator made for learning purposes.
 
-![preview](./preview.png)
+![preview](./react-calculator.png)
